@@ -1,2 +1,2 @@
-# advancedJavaScript
-Starter kit for my JS Courses
+# JavaScriptKamp
+Yazılım Geliştirici Yetiştirme Kampı(JavaScript) Odev-1
